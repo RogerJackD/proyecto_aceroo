@@ -1,0 +1,39 @@
+
+body {
+    background-color: #f8f9fa;
+}
+
+.text-danger {
+    color: #dc3545 !important;
+}
+
+.btn-outline-danger {
+    border-color: #dc3545;
+    color: #dc3545;
+}
+
+.btn-outline-danger:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+.card {
+    border-color: #dc3545;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    color: #dc3545;
+}
+
+.modal-header, .modal-footer {
+    background-color: #f8f9fa;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.modal-title {
+    color: #dc3545;
+}
